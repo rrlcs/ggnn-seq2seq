@@ -13,8 +13,7 @@ Synthesizing Programs from Logical Constraints using Deep Neural Networks. Model
 - matplotlib
 
 ## Data
-- dataset_multimodal.json
-Data Generation Pipeline was built upon [https://github.com/rrlcs/random-constraint-generation](Random Constraint Generation)
+- Data Generation Pipeline was built upon [https://github.com/rrlcs/random-constraint-generation](Random Constraint Generation)
 
 ## Download Dataset
 ```
